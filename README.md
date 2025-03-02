@@ -1,4 +1,4 @@
-# CFD---Canonical-Exemples
+# CFD---Canonical-Examples
 
 This repository contains a series of canonical CFD examples I came across during my Aerospace Engineering degree, here compiled for ease of access.
 
